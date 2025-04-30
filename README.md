@@ -14,4 +14,7 @@ The API Key you need:
 Note: you need at least 30 minutes of a voice recording of yourself for the *Professional voice cloning. But there is also a simpler voice cloning option that only requires 30 seconds of voice recording.
 *Professional voice cloning is a paid feature.
 
+To use this code, you have to replace the api_key with your API's Key.
+After installation, just run any of the files i.e simple_vtv.py or voice_translator.py
+
 ![a screenshot of the interface](ss.png)
